@@ -8,4 +8,5 @@ Working modules
 * login
 * predmety
 * predvidac
+* setok
 * user
